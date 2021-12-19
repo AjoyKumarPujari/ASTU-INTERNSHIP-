@@ -1,15 +1,11 @@
-# ASTU-INTERNSHIP-
-ASTU-INTERNSHIP Final project 
+
 Python | Malware Analysis | Artificial Intelligence
 Job Type
 Internship
 Location
 Work from home
 
-Eckovation
-Eckovation is a product of the desire of its co-founders to generate meaningful impact in the society. It started with a Civil Society initiative named 'Saras' which they started during their college days. The objective was to provide quality education to children of poor families.
-This experience exposed them to the problem of scale, the fact that one teacher can meaningfully teach not more than 40-50 students at a time but the availability of quality teachers at ground level was extremely limited. If only, there was a way to leapfrog this problem.If only, one teacher could teach thousands of students. Being the problem solvers that they are, their response was, well, why not? This led to a technology-based quest which has now taken the shape of Eckovation.
-Responsibilities
+
 Topic: Analyze UBER Data in Python Using Machine Learning.
 
 Duration: 2 Weeks
